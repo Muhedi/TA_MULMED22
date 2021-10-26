@@ -1,0 +1,38 @@
+track :
+1. Suara udara perkotaan
+2. suara kendaraan ramai (efek jalanan)
+3. suara suasana perkotaan (klakson dimana mana)
+4. suara rekaman percakapan (orang 1 dan 2)
+5. suara kendaraan saat orang 1 mengendarai kendaraannya
+6. suara menabrak
+7. suara orang teriak saat tabrakan. 
+
+- track 4 6 bisa direkam sendiri
+
+rekaman orang 1 (nanyain jalan ke orang budek)
+orang 1 : waduhh, ini jalan buat ke alun-alun lewat mana ya? (bergumam sendiri/ngomong sendiri saat naik kendaraan)
+orang 1 : duh mana yaa, coba tanya orang deh.. nah ada orang tuhh..
+orang 1 : misi pak, jalan menuju arah alun2 kemana ya?
+orang 2 : hah?, apa? saya ngga denger
+orang 1 : jalan kearah alun2 lewat mana ya?
+orang 2 : hah? ada yang jadi bulan bulanan, mana?
+orang 1 : bukan bulan bulanan pak, tapi arah alun alun kemana? 
+orang 2 : ehh,nanyain saya kenapa nih? saya baik baik aja hehehe
+orang 1 : hih dasar orang budek
+orang 2 : lho kmu ngatain saya budek yaa? (sebel)
+orang 1 : lha itu denger?, saya cuma mau tanya jalan arah alun2 kemana pak?
+orang 2 : oalahhh belok kiri lurus aja tuh
+orang 1 : siyapp pak
+(orang l lanjut ngendarai kendaraan)
+orang 1 : lah kok tembus jalan tol nih, wahh parahh
+(efek ketabrak)
+orang 1 : duarr adoohhhhh, jatoh ketabrak mobil
+(orang 1 puter balik, pulang, cari jalan laen)
+(orang 1 ketemu orang 2)
+orang 1: heh pakk, gimana sih aku ketabrak nihh gara2 masuk tol, bapak gimana sih ngasih tau jalan
+orang 2 : hah? kan bener jalannya..
+orang1 : jalan ke alun alun?
+orang 2 : oalahhh hehehehe, maap pak saya kira ke situu wkwk, 
+orang 1 : dasar budekk... 
+
+ 
